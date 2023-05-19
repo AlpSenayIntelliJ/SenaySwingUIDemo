@@ -15,7 +15,7 @@ public class MainGUIWindow extends JFrame {
         setContentPane(mainPanel);
         setTitle("My GUI!");
         setSize(900, 750);
-        setLocation(400,200);
+        setLocation(400,225);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setVisible(true);
     }
